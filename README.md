@@ -1,3 +1,12 @@
+<p align="center">
+  <b>Linguagens Favoritas</b>
+</p>
+<p align="center">
+  <img alt="Java" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Kotlin" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+</p>
+
+
 </p>
 <p align="center">
   <!-- GitHub Stats -->
