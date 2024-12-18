@@ -1,8 +1,3 @@
-<p align="center">
-  <!-- WakaTime Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Harlok's WakaTime Stats" width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=EpicNerdBr&theme=transparent&text_color=878787&title_color=3176cc&icon_color=878787&border_color=878787&border_radius=5&cache_seconds=1800"/>
-  </a>
 </p>
 <p align="center">
   <!-- GitHub Stats -->
@@ -11,4 +6,8 @@
 <p align="center">
   <!-- Top Languages -->
   <img alt="Top Langs" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpicNerdBr&layout=compact&theme=transparent&text_color=878787&title_color=3176cc&icon_color=878787&border_color=878787&border_radius=5&cache_seconds=1800"/>
+</p>
+<p align="center">
+  <!-- Activity -->
+  <img alt="GitHub Activity Graph" width="500px" src="https://github-readme-activity-graph.vercel.app/graph?username=EpicNerdBr&theme=github-compact&color=878787&title_color=3176cc&point=3176cc&area_color=13171d"/>
 </p>
